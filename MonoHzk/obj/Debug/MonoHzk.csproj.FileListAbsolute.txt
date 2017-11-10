@@ -1,0 +1,85 @@
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\MonoHzk.dll
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\MonoHzk.pdb
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\MonoGame.Framework.dll
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.XAudio2.dll
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.dll
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.DXGI.dll
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.Direct3D11.dll
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.Direct2D1.dll
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.XInput.dll
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.MediaFoundation.dll
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\MonoGame.Framework.xml
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.XAudio2.xml
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.xml
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.DXGI.xml
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.Direct3D11.xml
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.Direct2D1.xml
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.XInput.xml
+D:\我的程序2017\HZKConsole\MonoHzk\Bin\SharpDX.MediaFoundation.xml
+D:\我的程序2017\HZKConsole\MonoHzk\obj\Debug\MonoHzk.csprojResolveAssemblyReference.cache
+D:\我的程序2017\HZKConsole\MonoHzk\obj\Debug\MonoHzk.dll
+D:\我的程序2017\HZKConsole\MonoHzk\obj\Debug\MonoHzk.pdb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\obj\Debug\MonoHzk.csprojResolveAssemblyReference.cache
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\obj\Debug\MonoHzk.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\obj\Debug\MonoHzk.pdb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\MonoHzk.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\MonoHzk.pdb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\MonoGame.Framework.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.XAudio2.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.DXGI.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.Direct3D11.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.Direct2D1.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.XInput.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.MediaFoundation.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\MonoGame.Framework.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.XAudio2.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.DXGI.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.Direct3D11.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.Direct2D1.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.XInput.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzk\Bin\SharpDX.MediaFoundation.xml
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\MonoHzk.dll
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\MonoHzk.pdb
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\MonoGame.Framework.dll
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.XAudio2.dll
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.dll
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.DXGI.dll
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.Direct3D11.dll
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.Direct2D1.dll
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.XInput.dll
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.MediaFoundation.dll
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\MonoGame.Framework.xml
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.XAudio2.xml
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.xml
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.DXGI.xml
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.Direct3D11.xml
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.Direct2D1.xml
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.XInput.xml
+D:\我的随便写写程序\HZKConsole\MonoHzk\Bin\SharpDX.MediaFoundation.xml
+D:\我的随便写写程序\HZKConsole\MonoHzk\obj\Debug\MonoHzk.csprojResolveAssemblyReference.cache
+D:\我的随便写写程序\HZKConsole\MonoHzk\obj\Debug\MonoHzk.dll
+D:\我的随便写写程序\HZKConsole\MonoHzk\obj\Debug\MonoHzk.pdb
+E:\我的程序\MonoHZK\MonoHzk\Bin\MonoHzk.dll
+E:\我的程序\MonoHZK\MonoHzk\Bin\MonoHzk.pdb
+E:\我的程序\MonoHZK\MonoHzk\Bin\MonoGame.Framework.dll
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.XAudio2.dll
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.dll
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.DXGI.dll
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.Direct3D11.dll
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.Direct2D1.dll
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.XInput.dll
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.MediaFoundation.dll
+E:\我的程序\MonoHZK\MonoHzk\Bin\MonoGame.Framework.xml
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.XAudio2.xml
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.xml
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.DXGI.xml
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.Direct3D11.xml
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.Direct2D1.xml
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.XInput.xml
+E:\我的程序\MonoHZK\MonoHzk\Bin\SharpDX.MediaFoundation.xml
+E:\我的程序\MonoHZK\MonoHzk\obj\Debug\MonoHzk.csprojResolveAssemblyReference.cache
+E:\我的程序\MonoHZK\MonoHzk\obj\Debug\MonoHzk.csproj.CoreCompileInputs.cache
+E:\我的程序\MonoHZK\MonoHzk\obj\Debug\MonoHzk.dll
+E:\我的程序\MonoHZK\MonoHzk\obj\Debug\MonoHzk.pdb

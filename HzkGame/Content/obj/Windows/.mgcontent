@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/我的程序/MonoHZK/HzkGame/Content/Asc16.bin</File>
+    <File>E:/我的程序/MonoHZK/HzkGame/Content/HZK16.bin</File>
+    <File>E:/我的程序/MonoHZK/HzkGame/Content/SmallFont.spritefont</File>
+    <File>E:/我的程序/MonoHZK/HzkGame/Content/yahei32.bin</File>
+    <File>E:/我的程序/MonoHZK/HzkGame/Content/yaheiasc32.bin</File>
+    <File>E:/我的程序/MonoHZK/HzkGame/Content/kaiti24.bin</File>
+    <File>E:/我的程序/MonoHZK/HzkGame/Content/kaitiasc24.bin</File>
+    <File>E:/我的程序/MonoHZK/HzkGame/Content/kaiti64.bin</File>
+    <File>E:/我的程序/MonoHZK/HzkGame/Content/kaitiasc64.bin</File>
+  </SourceFiles>
+</SourceFileCollection>

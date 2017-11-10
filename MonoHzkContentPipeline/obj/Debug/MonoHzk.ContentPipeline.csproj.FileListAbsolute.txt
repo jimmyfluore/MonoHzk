@@ -1,0 +1,105 @@
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\MonoHzk.ContentPipeline.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\MonoHzk.ContentPipeline.pdb
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\MonoGame.Framework.Content.Pipeline.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\MonoGame.Framework.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.MediaFoundation.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.XAudio2.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.DXGI.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.Direct3D11.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.Direct2D1.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.XInput.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\CppNet.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\Nvidia.TextureTools.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\SharpFont.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.D3DCompiler.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\AssimpNet.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\FreeImageNET.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\ATI.TextureConverter.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\PVRTexLibNET.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.Direct3D9.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.csprojResolveAssemblyReference.cache
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.dll
+D:\我的程序2017\HZKConsole\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.pdb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\MonoHzk.ContentPipeline.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\MonoHzk.ContentPipeline.pdb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\MonoGame.Framework.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.MediaFoundation.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.XAudio2.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.DXGI.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.Direct3D11.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.Direct2D1.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.XInput.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\CppNet.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\Nvidia.TextureTools.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\SharpFont.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.D3DCompiler.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\AssimpNet.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\FreeImageNET.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\ATI.TextureConverter.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\PVRTexLibNET.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.Direct3D9.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.csprojResolveAssemblyReference.cache
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.pdb
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\MonoHzk.ContentPipeline.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\MonoHzk.ContentPipeline.pdb
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\MonoGame.Framework.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.XAudio2.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.DXGI.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.Direct3D11.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.Direct2D1.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.XInput.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.MediaFoundation.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\CppNet.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\Nvidia.TextureTools.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpFont.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.D3DCompiler.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\AssimpNet.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\FreeImageNET.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\ATI.TextureConverter.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\PVRTexLibNET.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\MonoGame.Framework.xml
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.XAudio2.xml
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.xml
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.DXGI.xml
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.Direct3D11.xml
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.Direct2D1.xml
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.XInput.xml
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\bin\SharpDX.MediaFoundation.xml
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.csprojResolveAssemblyReference.cache
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.dll
+D:\我的随便写写程序\HZKConsole\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.pdb
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\MonoHzk.ContentPipeline.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\MonoHzk.ContentPipeline.pdb
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\MonoGame.Framework.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.XAudio2.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.DXGI.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.Direct3D11.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.Direct2D1.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.XInput.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.MediaFoundation.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\CppNet.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\Nvidia.TextureTools.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpFont.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.D3DCompiler.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\AssimpNet.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\FreeImageNET.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\ATI.TextureConverter.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\PVRTexLibNET.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\MonoGame.Framework.xml
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.XAudio2.xml
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.xml
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.DXGI.xml
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.Direct3D11.xml
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.Direct2D1.xml
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.XInput.xml
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\bin\SharpDX.MediaFoundation.xml
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.csprojResolveAssemblyReference.cache
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.csproj.CoreCompileInputs.cache
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.dll
+E:\我的程序\MonoHZK\MonoHzkContentPipeline\obj\Debug\MonoHzk.ContentPipeline.pdb

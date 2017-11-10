@@ -1,0 +1,121 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HZKConsole
+</name>
+</assembly>
+<members>
+<member name="T:MonoHZKConsole.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MonoHZKConsole.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MonoHZKConsole.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:MonoHZKConsole.Hzk.MyHzkFile">
+ <summary>
+ 用于打开汉字库的文件流。
+ </summary>
+</member>
+<member name="F:MonoHZKConsole.Hzk.MyAscFile">
+ <summary>
+ 用于打开半角字符库的文件流。
+ </summary>
+</member>
+<member name="F:MonoHZKConsole.Hzk.MyHzkSize">
+ <summary>
+ 汉字的尺寸。必须是偶数。
+ </summary>
+</member>
+<member name="F:MonoHZKConsole.Hzk.MyAscSize">
+ <summary>
+ 半角字符的宽度。
+ 是汉字的一半向上取整。
+ </summary>
+</member>
+<member name="F:MonoHZKConsole.Hzk.MyHzkStride">
+ <summary>
+ 汉字每一行数据的字节数。
+ 汉字宽度的八分之一向上取整。
+ 例如，当HzkSize=32时，HzkStride=4；
+ 当HzkSize=12时，HzkStride=2；
+ </summary>
+</member>
+<member name="F:MonoHZKConsole.Hzk.MyAscStride">
+ <summary>
+ 半角字符每一行数据的字节数。
+ 半角字符宽度的八分之一向上取整。
+ 例如，当AscSize=16时，AscStride=2；
+ 当AscSize=6时，AscStride=1
+ </summary>
+</member>
+<member name="F:MonoHZKConsole.Hzk.MyHzkData">
+ <summary>
+ 汉字库数据。
+ </summary>
+</member>
+<member name="F:MonoHZKConsole.Hzk.MyAscData">
+ <summary>
+ 半角字符库数据。
+ </summary>
+</member>
+<member name="M:MonoHZKConsole.Hzk.#ctor(System.String,System.String,System.Int32)">
+ <summary>
+ 指定汉字库文件、半角字符库文件、汉字尺寸，新建汉字库。
+ </summary>
+ <param name="HzkFn"></param>
+ <param name="AscFn"></param>
+ <param name="Size"></param>
+</member>
+<member name="M:MonoHZKConsole.Hzk.HzData(System.Char)">
+ <summary>
+ 取得指定字符的点阵数据。
+ 如果这个字符编码不在字库中，那么返回Nothing/Null。
+ </summary>
+ <param name="UnicodeChar"></param>
+ <returns></returns>
+</member>
+<member name="M:MonoHZKConsole.Hzk.HzGraph(System.Char,System.Char,System.Char)">
+ <summary>
+ 将点阵数据显示出来~
+ </summary>
+ <returns></returns>
+</member>
+<member name="F:MonoHZKConsole.Program._HzkSize">
+ <summary>
+ 汉字的尺寸。必须是偶数。
+ 半角字符的宽度是汉字的一半，高度相同。
+ </summary>
+</member>
+<member name="F:MonoHZKConsole.Program._HzkStride">
+ <summary>
+ 汉字每一行数据的字节数。
+ _HzkStride*8>=_HzkSize，
+ 例如，当_HzkSize=32时，_HzkStride=4；
+ 当_HzkSize=12时，_HzkStride=2；
+ </summary>
+</member>
+<member name="F:MonoHZKConsole.Program._HzkFileName">
+ <summary>
+ 汉字库的文件名。
+ 每个汉字的尺寸为_HzkSize*_HzkSize
+ </summary>
+</member>
+<member name="F:MonoHZKConsole.Program._AscFileName">
+ <summary>
+ 半角字库的文件名。
+ 每个半角字符的尺寸为(_HzkSize/2)*_HzkSize
+ </summary>
+</member>
+</members>
+</doc>

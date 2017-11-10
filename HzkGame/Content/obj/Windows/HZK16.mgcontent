@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/我的程序/MonoHZK/HzkGame/Content/HZK16.bin</SourceFile>
+  <SourceTime>2014-03-13T00:20:26+08:00</SourceTime>
+  <DestFile>E:/我的程序/MonoHZK/HzkGame/Content/bin/Windows/HZK16.xnb</DestFile>
+  <DestTime>2017-11-10T21:22:36.6898809+08:00</DestTime>
+  <Importer>MonoHzkImporter</Importer>
+  <ImporterTime>2017-11-10T21:21:30.3035832+08:00</ImporterTime>
+  <Processor>MonoHzkProcessor</Processor>
+  <ProcessorTime>2017-11-10T21:21:30.3035832+08:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

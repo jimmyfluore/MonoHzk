@@ -1,0 +1,205 @@
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\Content\Asc16.bin
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\Content\HZK16.bin
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\HzkGame.exe
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\HzkGame.pdb
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.dll
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.xml
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\我的程序\HZKConsole\HzkGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\我的程序\HZKConsole\HzkGame\obj\x86\Debug\HzkGame.exe
+D:\我的程序\HZKConsole\HzkGame\obj\x86\Debug\HzkGame.pdb
+D:\我的程序2017\HZKConsole\HzkGame\bin\Content\Asc16.bin
+D:\我的程序2017\HZKConsole\HzkGame\bin\Content\Asc16.xnb
+D:\我的程序2017\HZKConsole\HzkGame\bin\Content\HZK16.bin
+D:\我的程序2017\HZKConsole\HzkGame\bin\Content\HZK16.xnb
+D:\我的程序2017\HZKConsole\HzkGame\bin\Content\SmallFont.xnb
+D:\我的程序2017\HZKConsole\HzkGame\bin\HzkGame.exe
+D:\我的程序2017\HZKConsole\HzkGame\bin\HzkGame.pdb
+D:\我的程序2017\HZKConsole\HzkGame\bin\MonoGame.Framework.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\MonoHzk.ContentPipeline.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\MonoHzk.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\MonoGame.Framework.Content.Pipeline.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.MediaFoundation.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.XAudio2.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.DXGI.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.Direct3D11.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.Direct2D1.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.XInput.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\CppNet.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\Nvidia.TextureTools.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpFont.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.D3DCompiler.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\AssimpNet.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\FreeImageNET.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\ATI.TextureConverter.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\PVRTexLibNET.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.Direct3D9.dll
+D:\我的程序2017\HZKConsole\HzkGame\bin\MonoHzk.ContentPipeline.pdb
+D:\我的程序2017\HZKConsole\HzkGame\bin\MonoHzk.pdb
+D:\我的程序2017\HZKConsole\HzkGame\bin\MonoGame.Framework.xml
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.MediaFoundation.xml
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.xml
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.XAudio2.xml
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.DXGI.xml
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.Direct3D11.xml
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.Direct2D1.xml
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.XInput.xml
+D:\我的程序2017\HZKConsole\HzkGame\bin\SharpDX.Direct3D9.xml
+D:\我的程序2017\HZKConsole\HzkGame\obj\x86\Debug\HzkGame.csprojResolveAssemblyReference.cache
+D:\我的程序2017\HZKConsole\HzkGame\obj\x86\Debug\HzkGame.exe
+D:\我的程序2017\HZKConsole\HzkGame\obj\x86\Debug\HzkGame.pdb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\obj\x86\Debug\HzkGame.exe
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\obj\x86\Debug\HzkGame.pdb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\obj\x86\Debug\HzkGame.csprojResolveAssemblyReference.cache
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\HzkGame.exe.config
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\Content\Asc16.bin
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\Content\HZK16.bin
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\Content\Asc16.xnb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\Content\HZK16.xnb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\Content\SmallFont.xnb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\HzkGame.exe
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\HzkGame.pdb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\MonoGame.Framework.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\MonoHzk.ContentPipeline.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\MonoHzk.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\MonoGame.Framework.Content.Pipeline.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.MediaFoundation.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.XAudio2.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.DXGI.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.Direct3D11.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.Direct2D1.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.XInput.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\CppNet.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\Nvidia.TextureTools.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpFont.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.D3DCompiler.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\AssimpNet.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\FreeImageNET.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\ATI.TextureConverter.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\PVRTexLibNET.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.Direct3D9.dll
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\MonoHzk.ContentPipeline.pdb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\MonoHzk.pdb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\MonoGame.Framework.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.MediaFoundation.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.XAudio2.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.DXGI.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.Direct3D11.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.Direct2D1.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.XInput.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkGame\bin\SharpDX.Direct3D9.xml
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\Content\Asc16.bin
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\Content\HZK16.bin
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\Content\Asc16.xnb
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\Content\HZK16.xnb
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\Content\SmallFont.xnb
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\Content\yahei32.xnb
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\Content\yaheiasc32.xnb
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\HzkGame.exe.config
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\HzkGame.exe
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\HzkGame.pdb
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\MonoGame.Framework.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\MonoHzk.ContentPipeline.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\MonoHzk.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\MonoGame.Framework.Content.Pipeline.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.MediaFoundation.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.XAudio2.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.DXGI.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.Direct3D11.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.Direct2D1.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.XInput.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\CppNet.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\Nvidia.TextureTools.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpFont.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.D3DCompiler.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\AssimpNet.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\FreeImageNET.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\ATI.TextureConverter.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\PVRTexLibNET.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.Direct3D9.dll
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\MonoHzk.ContentPipeline.pdb
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\MonoHzk.pdb
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\MonoGame.Framework.xml
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.MediaFoundation.xml
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.xml
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.XAudio2.xml
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.DXGI.xml
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.Direct3D11.xml
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.Direct2D1.xml
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.XInput.xml
+D:\我的随便写写程序\HZKConsole\HzkGame\bin\SharpDX.Direct3D9.xml
+D:\我的随便写写程序\HZKConsole\HzkGame\obj\x86\Debug\HzkGame.csprojResolveAssemblyReference.cache
+D:\我的随便写写程序\HZKConsole\HzkGame\obj\x86\Debug\HzkGame.exe
+D:\我的随便写写程序\HZKConsole\HzkGame\obj\x86\Debug\HzkGame.pdb
+D:\我的程序2017\HZKConsole\HzkGame\bin\HzkGame.exe.config
+D:\我的程序2017\HZKConsole\HzkGame\bin\Content\yahei32.xnb
+D:\我的程序2017\HZKConsole\HzkGame\bin\Content\yaheiasc32.xnb
+D:\我的程序2017\HZKConsole\HzkGame\bin\Content\kaiti24.xnb
+D:\我的程序2017\HZKConsole\HzkGame\bin\Content\kaitiasc24.xnb
+E:\我的程序\MonoHZK\HzkGame\bin\Content\Asc16.bin
+E:\我的程序\MonoHZK\HzkGame\bin\Content\HZK16.bin
+E:\我的程序\MonoHZK\HzkGame\bin\Content\Asc16.xnb
+E:\我的程序\MonoHZK\HzkGame\bin\Content\HZK16.xnb
+E:\我的程序\MonoHZK\HzkGame\bin\Content\kaiti24.xnb
+E:\我的程序\MonoHZK\HzkGame\bin\Content\kaitiasc24.xnb
+E:\我的程序\MonoHZK\HzkGame\bin\Content\SmallFont.xnb
+E:\我的程序\MonoHZK\HzkGame\bin\Content\yahei32.xnb
+E:\我的程序\MonoHZK\HzkGame\bin\Content\yaheiasc32.xnb
+E:\我的程序\MonoHZK\HzkGame\bin\HzkGame.exe.config
+E:\我的程序\MonoHZK\HzkGame\bin\HzkGame.exe
+E:\我的程序\MonoHZK\HzkGame\bin\HzkGame.pdb
+E:\我的程序\MonoHZK\HzkGame\bin\MonoGame.Framework.dll
+E:\我的程序\MonoHZK\HzkGame\bin\MonoHzk.ContentPipeline.dll
+E:\我的程序\MonoHZK\HzkGame\bin\MonoHzk.dll
+E:\我的程序\MonoHZK\HzkGame\bin\MonoGame.Framework.Content.Pipeline.dll
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.MediaFoundation.dll
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.dll
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.XAudio2.dll
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.DXGI.dll
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.Direct3D11.dll
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.Direct2D1.dll
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.XInput.dll
+E:\我的程序\MonoHZK\HzkGame\bin\CppNet.dll
+E:\我的程序\MonoHZK\HzkGame\bin\Nvidia.TextureTools.dll
+E:\我的程序\MonoHZK\HzkGame\bin\SharpFont.dll
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.D3DCompiler.dll
+E:\我的程序\MonoHZK\HzkGame\bin\AssimpNet.dll
+E:\我的程序\MonoHZK\HzkGame\bin\FreeImageNET.dll
+E:\我的程序\MonoHZK\HzkGame\bin\ATI.TextureConverter.dll
+E:\我的程序\MonoHZK\HzkGame\bin\PVRTexLibNET.dll
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.Direct3D9.dll
+E:\我的程序\MonoHZK\HzkGame\bin\MonoHzk.ContentPipeline.pdb
+E:\我的程序\MonoHZK\HzkGame\bin\MonoHzk.pdb
+E:\我的程序\MonoHZK\HzkGame\bin\MonoGame.Framework.xml
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.MediaFoundation.xml
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.xml
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.XAudio2.xml
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.DXGI.xml
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.Direct3D11.xml
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.Direct2D1.xml
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.XInput.xml
+E:\我的程序\MonoHZK\HzkGame\bin\SharpDX.Direct3D9.xml
+E:\我的程序\MonoHZK\HzkGame\obj\x86\Debug\HzkGame.csprojResolveAssemblyReference.cache
+E:\我的程序\MonoHZK\HzkGame\obj\x86\Debug\HzkGame.csproj.CoreCompileInputs.cache
+E:\我的程序\MonoHZK\HzkGame\obj\x86\Debug\HzkGame.exe
+E:\我的程序\MonoHZK\HzkGame\obj\x86\Debug\HzkGame.pdb
+E:\我的程序\MonoHZK\HzkGame\bin\Content\kaiti64.xnb
+E:\我的程序\MonoHZK\HzkGame\bin\Content\kaitiasc64.xnb

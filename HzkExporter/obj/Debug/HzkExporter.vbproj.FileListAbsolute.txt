@@ -1,0 +1,55 @@
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkExporter\bin\Debug\HzkExporter.exe
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkExporter\bin\Debug\HzkExporter.pdb
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkExporter\bin\Debug\HzkExporter.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkExporter\obj\Debug\HzkExporter.vbprojResolveAssemblyReference.cache
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkExporter\obj\Debug\HzkExporter.HzkExporter.resources
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkExporter\obj\Debug\HzkExporter.Resources.resources
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkExporter\obj\Debug\HzkExporter.vbproj.GenerateResource.Cache
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkExporter\obj\Debug\HzkExporter.exe
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkExporter\obj\Debug\HzkExporter.xml
+C:\Users\chenm\Documents\Visual Studio 2015\Projects\HZKConsole\HzkExporter\obj\Debug\HzkExporter.pdb
+D:\我的随便写写程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.exe
+D:\我的随便写写程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.xml
+D:\我的随便写写程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.pdb
+D:\我的随便写写程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.vbprojResolveAssemblyReference.cache
+D:\我的随便写写程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.HzkExporter.resources
+D:\我的随便写写程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.Resources.resources
+D:\我的随便写写程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.vbproj.GenerateResource.Cache
+D:\我的随便写写程序\HZKConsole\HzkExporter\bin\Debug\HzkExporter.exe
+D:\我的随便写写程序\HZKConsole\HzkExporter\bin\Debug\HzkExporter.pdb
+D:\我的随便写写程序\HZKConsole\HzkExporter\bin\Debug\HzkExporter.xml
+D:\我的随便写写程序\HZKConsole\Bin\HzkExporter.exe
+D:\我的随便写写程序\HZKConsole\Bin\HzkExporter.pdb
+D:\我的随便写写程序\HZKConsole\Bin\HzkExporter.xml
+D:\我的程序2017\HZKConsole\HzkExporter\obj\Debug\HzkExporter.exe
+D:\我的程序2017\HZKConsole\HzkExporter\obj\Debug\HzkExporter.xml
+D:\我的程序2017\HZKConsole\HzkExporter\obj\Debug\HzkExporter.pdb
+D:\我的程序2017\HZKConsole\Bin\HzkExporter.exe
+D:\我的程序2017\HZKConsole\Bin\HzkExporter.pdb
+D:\我的程序2017\HZKConsole\Bin\HzkExporter.xml
+D:\我的程序2017\HZKConsole\HzkExporter\obj\Debug\HzkExporter.vbprojResolveAssemblyReference.cache
+D:\我的程序2017\HZKConsole\HzkExporter\obj\Debug\HzkExporter.HzkExporter.resources
+D:\我的程序2017\HZKConsole\HzkExporter\obj\Debug\HzkExporter.Resources.resources
+D:\我的程序2017\HZKConsole\HzkExporter\obj\Debug\HzkExporter.vbproj.GenerateResource.Cache
+E:\我的程序\HZKConsole\Bin\HzkExporter.exe
+E:\我的程序\HZKConsole\Bin\HzkExporter.pdb
+E:\我的程序\HZKConsole\Bin\HzkExporter.xml
+E:\我的程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.vbprojResolveAssemblyReference.cache
+E:\我的程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.HzkExporter.resources
+E:\我的程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.Resources.resources
+E:\我的程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.vbproj.GenerateResource.Cache
+E:\我的程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.vbproj.CoreCompileInputs.cache
+E:\我的程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.exe
+E:\我的程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.xml
+E:\我的程序\HZKConsole\HzkExporter\obj\Debug\HzkExporter.pdb
+E:\我的程序\MonoHZK\HzkExporter\obj\Debug\HzkExporter.vbprojResolveAssemblyReference.cache
+E:\我的程序\MonoHZK\HzkExporter\obj\Debug\HzkExporter.HzkExporter.resources
+E:\我的程序\MonoHZK\HzkExporter\obj\Debug\HzkExporter.Resources.resources
+E:\我的程序\MonoHZK\HzkExporter\obj\Debug\HzkExporter.vbproj.GenerateResource.Cache
+E:\我的程序\MonoHZK\HzkExporter\obj\Debug\HzkExporter.vbproj.CoreCompileInputs.cache
+E:\我的程序\MonoHZK\HzkExporter\obj\Debug\HzkExporter.exe
+E:\我的程序\MonoHZK\HzkExporter\obj\Debug\HzkExporter.xml
+E:\我的程序\MonoHZK\HzkExporter\obj\Debug\HzkExporter.pdb
+E:\我的程序\MonoHZK\Bin\HzkExporter.exe
+E:\我的程序\MonoHZK\Bin\HzkExporter.pdb
+E:\我的程序\MonoHZK\Bin\HzkExporter.xml

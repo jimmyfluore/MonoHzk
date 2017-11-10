@@ -1,0 +1,63 @@
+
+#----------------------------- Global Properties ----------------------------#
+
+/outputDir:bin/$(Platform)
+/intermediateDir:obj/$(Platform)
+/platform:Windows
+/config:
+/profile:Reach
+/compress:False
+
+#-------------------------------- References --------------------------------#
+
+/reference:..\..\MonoHzkContentPipeline\bin\MonoHzk.ContentPipeline.dll
+
+#---------------------------------- Content ---------------------------------#
+
+#begin Asc16.bin
+/importer:MonoHzkImporter
+/processor:MonoHzkProcessor
+/build:Asc16.bin
+
+#begin HZK16.bin
+/importer:MonoHzkImporter
+/processor:MonoHzkProcessor
+/build:HZK16.bin
+
+#begin SmallFont.spritefont
+/importer:FontDescriptionImporter
+/processor:FontDescriptionProcessor
+/processorParam:PremultiplyAlpha=True
+/processorParam:TextureFormat=Compressed
+/build:SmallFont.spritefont
+
+#begin yahei32.bin
+/importer:MonoHzkImporter
+/processor:MonoHzkProcessor
+/build:yahei32.bin
+
+#begin yaheiasc32.bin
+/importer:MonoHzkImporter
+/processor:MonoHzkProcessor
+/build:yaheiasc32.bin
+
+#begin kaiti24.bin
+/importer:MonoHzkImporter
+/processor:MonoHzkProcessor
+/build:kaiti24.bin
+
+#begin kaitiasc24.bin
+/importer:MonoHzkImporter
+/processor:MonoHzkProcessor
+/build:kaitiasc24.bin
+
+#begin kaiti64.bin
+/importer:MonoHzkImporter
+/processor:MonoHzkProcessor
+/build:kaiti64.bin
+
+#begin kaitiasc64.bin
+/importer:MonoHzkImporter
+/processor:MonoHzkProcessor
+/build:kaitiasc64.bin
+
